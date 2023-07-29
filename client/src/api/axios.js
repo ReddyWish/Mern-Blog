@@ -1,7 +1,5 @@
 import axios from "axios";
-const BASE_URL = "http://localhost:3600";
-// import { useDispatch } from "react-redux";
-// import { requestNewAccessToken } from "../features/auth/authSlice.js";
+const BASE_URL = "https://merny-api.onrender.com";
 
 export default axios.create({
   baseURL: BASE_URL

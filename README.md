@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 
 
 # MERN Blog - Advanced Backend with Token Rotation and State Management with Redux Toolkit
- [Check this out]https://merny.onrender.com/
+ [Check this out] https://merny.onrender.com/
 
 
 ## Overview

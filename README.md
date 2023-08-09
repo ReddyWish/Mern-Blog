@@ -33,13 +33,13 @@ This is a full-stack blog application built on the MERN (MongoDB, Express, React
 You can use the following pre-registered users to test the blog application:
 
 1. **Admin**:
-    - Username: Reddy
+    - Username: James
     - Password: zaq123ZAQ$
 
 2. **Editor**:
-    - Username: Wish
+    - Username: Jessica
     - Password: zaq123ZAQ$
 
 3. **User**:
-    - Username: Ilya
+    - Username: Thomas
     - Password: zaq123ZAQ$

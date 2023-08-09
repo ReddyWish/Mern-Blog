@@ -23,9 +23,9 @@ This is a full-stack blog application built on the MERN (MongoDB, Express, React
 - **Token Rotation**: The backend implements token rotation to enhance security by periodically refreshing the user's access token.
 - **Token Reuse Detection**: The application detects and prevents token reuse to mitigate security risks.
 - **Authorization Roles**:
-    - **Admin**: Can create, delete, and edit posts. Additionally, an Admin can delete a user along with all their posts.
-    - **Editor**: Can create, delete, and edit posts.
-    - **User**: Can create, read, and edit their own posts.
+    - **Admin**: Can create, delete, and edit posts and comments as well. Additionally, an Admin can delete a user along with all their posts.
+    - **Editor**: Can create, delete, and edit posts and comments.
+    - **User**: Can create, read, and edit their own posts and comments.
 - **Pre-Registered Users**: For demonstration purposes, three pre-registered users are available to test the different roles and functionalities.
 
 ## Pre-Registered Users
